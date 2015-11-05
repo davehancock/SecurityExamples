@@ -6,9 +6,7 @@ import org.slf4j.LoggerFactory;
 import java.io.*;
 import java.net.Socket;
 
-/**
- * @author David Hancock
- */
+
 public class HTTPRequestProducer {
 
     private static final Logger LOG = LoggerFactory.getLogger(HTTPRequestProducer.class);

@@ -3,9 +3,7 @@ package com.learnsecurity.client;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
- * @author David Hancock
- */
+
 public class HTTPRequestProducerGenerator {
 
     private static final Logger LOG = LoggerFactory.getLogger(HTTPRequestProducerGenerator.class);

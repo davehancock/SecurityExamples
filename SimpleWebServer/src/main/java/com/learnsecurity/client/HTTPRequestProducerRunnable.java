@@ -1,8 +1,6 @@
 package com.learnsecurity.client;
 
-/**
- * @author David Hancock
- */
+
 public class HTTPRequestProducerRunnable implements Runnable {
 
     private static final String HOST = "localhost";

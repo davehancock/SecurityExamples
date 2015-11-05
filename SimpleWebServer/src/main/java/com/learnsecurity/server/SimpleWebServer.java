@@ -7,9 +7,7 @@ import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-/**
- * @author David Hancock
- */
+
 public class SimpleWebServer {
 
     private static final Logger LOG = LoggerFactory.getLogger(SimpleWebServer.class);

@@ -7,9 +7,7 @@ import java.io.*;
 import java.net.Socket;
 import java.util.StringTokenizer;
 
-/**
- * @author David Hancock
- */
+
 public class HTTPRequestHandler {
 
     private static final Logger LOG = LoggerFactory.getLogger(HTTPRequestHandler.class);
